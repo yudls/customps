@@ -1,2 +1,2 @@
 # customps
-Аналог утилиты ps aux, написанный на Shell для операционной системы Linux. Выводит информацию о запущенных процессах. Работает как ps aux.
+An analog of `ps aux` utility written in Shell for Linux operating system. Outputs information about running processes. Works like ps aux.
