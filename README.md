@@ -12,4 +12,4 @@ cd customps
 chmod a+x customps
 ./customps
 ```
-- or you can add customps to the PATH variable and create an alias in the .zshrc file
+Or you can add customps to the PATH variable and create an alias in the .zshrc file.
